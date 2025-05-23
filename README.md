@@ -1,5 +1,4 @@
-Here’s a README.md you can use for your project:
-
+TO ADD NEXT: INTERFACE
 # XGBoost Stock Price Prediction API
 
 This project is a machine learning-powered REST API built with Flask that predicts stock prices using the **XGBoost Regressor**. It accepts historical stock data in CSV or JSON format, trains a model on `Adj Close` prices, and supports **batch predictions**.
