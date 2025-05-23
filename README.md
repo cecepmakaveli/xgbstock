@@ -123,6 +123,3 @@ Author
 GitHub: cecepmakaveli
 
 
-
-Let me know if you want me to include curl examples or deploy instructions (e.g. for Render, Vercel, or Heroku).
-
